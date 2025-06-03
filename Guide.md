@@ -1,4 +1,6 @@
-# 
+# Config
+- From https://raw.githubusercontent.com/Tartarus2014/Shadowrocket-Script/main/Shadowrocket.conf
+  > Shadowrocket懒人配置 制作 by Tartarus2014
 # Server choice
 - https://www.facebook.com/lowendofficial/ "Page · Computers & Internet Website" (also implied by https://www.youtube.com/c/LowEndBoxTV)
   > Primary country/region location for people who manage this Page includes:
